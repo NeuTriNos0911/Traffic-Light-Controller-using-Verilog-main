@@ -1,5 +1,12 @@
 # Traffic Light Controller Using Verilog
-* The purpose of this project is to design a methodology using Verilog to control the traffic with specified time delays for a T-Shaped road.*
+The purpose of this project is to design a Verilog-based traffic light controller for a T-shaped road with specified state transitions and time delays.
+
+## Project Snapshot
+
+- Finite state machine design for a T-junction traffic controller.
+- Verilog HDL implementation with testbench documentation.
+- Includes state diagram, state table, RTL schematic, output waveforms, and report artifacts.
+- Demonstrates digital design, simulation thinking, and FPGA-oriented control logic.
 
 # Table of Contents
 
